@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "fastify": "^0.35.7",
+    "fastify-react": "^1.0.0",
+    "mysql2": "^1.5.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "sequelize": "^4.33.0"
+  }
+}

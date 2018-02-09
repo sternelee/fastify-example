@@ -1,0 +1,1 @@
+export default () => <div>这是我的</div>
